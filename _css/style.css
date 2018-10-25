@@ -1,0 +1,16 @@
+
+header {
+  background: #383E4C;
+  height: 10%;
+}
+
+a:link {
+  color: white;
+  margin-right: 10px;
+}
+
+.center-align {
+  width: 80%;
+  padding: 10px;
+  margin: 0 auto;
+}
