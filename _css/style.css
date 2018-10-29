@@ -77,3 +77,16 @@ header {
 .green-btn:hover { background: #449D44; }
 .blue-btn:hover { background: #31B0D5; }
 .red-btn:hover { background: #C9302C; }
+
+.blog-area {
+  padding-top: 70px;
+}
+
+.services-section {
+  background-image: url("../_images/bg-2.jpg");
+  background-position: center center;
+}
+
+.services {
+  margin:65px 0px 85px;
+}
