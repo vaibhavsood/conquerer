@@ -94,3 +94,18 @@ header {
 .testimonial-area {
   padding-top: 70px;
 }
+
+.contact-area {
+  background-image: url("../_images/bg-3.jpg");
+  background-position: center center;
+}
+
+.contact-form-left { padding-left: 0; }
+.contact-form-right { padding-right: 0; }
+.form-control {
+  border: none;
+  background: rgba(242, 242, 242, 0.4);
+}
+input {
+    margin-bottom: 15px;
+}
